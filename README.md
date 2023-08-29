@@ -1,4 +1,4 @@
-# Travel-Insurance-Prediction
+# Travel Insurance Prediction
 
 The purpose of this project is building an Intelligent Model that can predict whether the customer will be interested to buy the Travel Insurance or not.
 
